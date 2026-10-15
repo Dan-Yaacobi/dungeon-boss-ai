@@ -1,0 +1,1849 @@
+{
+  "generated": "2026-10-15T12:08:30.513Z",
+  "encounters": [
+    {
+      "team": "h0/h1/h3/h4",
+      "stage": 1,
+      "level": 2,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 9
+    },
+    {
+      "team": "h0/h1/h3/h4",
+      "stage": 2,
+      "level": 3,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 4
+    },
+    {
+      "team": "h0/h1/h3/h4",
+      "stage": 3,
+      "level": 4,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 5
+    },
+    {
+      "team": "h0/h1/h3/h4",
+      "stage": 4,
+      "level": 5,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 3
+    },
+    {
+      "team": "h0/h1/h3/h4",
+      "stage": 5,
+      "level": 6,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 28
+    },
+    {
+      "team": "h0/h1/h3/h4",
+      "stage": 6,
+      "level": 7,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 3
+    },
+    {
+      "team": "h0/h1/h3/h4",
+      "stage": 7,
+      "level": 8,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 3
+    },
+    {
+      "team": "h0/h1/h3/h4",
+      "stage": 8,
+      "level": 9,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 3
+    },
+    {
+      "team": "h0/h1/h3/h4",
+      "stage": 9,
+      "level": 10,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 4
+    },
+    {
+      "team": "h0/h1/h3/h4",
+      "stage": 10,
+      "level": 11,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 40
+    },
+    {
+      "team": "h0/h1/h3/h4",
+      "stage": 11,
+      "level": 12,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 7
+    },
+    {
+      "team": "h0/h1/h3/h4",
+      "stage": 12,
+      "level": 13,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 7
+    },
+    {
+      "team": "h0/h1/h3/h4",
+      "stage": 13,
+      "level": 14,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 8
+    },
+    {
+      "team": "h0/h1/h3/h4",
+      "stage": 14,
+      "level": 15,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 9
+    },
+    {
+      "team": "h0/h1/h3/h4",
+      "stage": 15,
+      "level": 16,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 43
+    },
+    {
+      "team": "h0/h1/h3/h4",
+      "stage": 16,
+      "level": 17,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 12
+    },
+    {
+      "team": "h0/h1/h3/h4",
+      "stage": 17,
+      "level": 18,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 12
+    },
+    {
+      "team": "h0/h1/h3/h4",
+      "stage": 18,
+      "level": 19,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 24
+    },
+    {
+      "team": "h0/h1/h3/h4",
+      "stage": 19,
+      "level": 20,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 28
+    },
+    {
+      "team": "h0/h1/h3/h4",
+      "stage": 20,
+      "level": 21,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 56
+    },
+    {
+      "team": "h0/h1/h3/h4",
+      "stage": 21,
+      "level": 22,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 25
+    },
+    {
+      "team": "h0/h1/h3/h4",
+      "stage": 22,
+      "level": 23,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 23
+    },
+    {
+      "team": "h0/h1/h3/h4",
+      "stage": 23,
+      "level": 24,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 25
+    },
+    {
+      "team": "h0/h1/h3/h4",
+      "stage": 24,
+      "level": 25,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 28
+    },
+    {
+      "team": "h0/h1/h3/h4",
+      "stage": 25,
+      "level": 26,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 52
+    },
+    {
+      "team": "h0/h1/h3/h4",
+      "stage": 26,
+      "level": 27,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 27
+    },
+    {
+      "team": "h0/h1/h3/h4",
+      "stage": 27,
+      "level": 28,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 26
+    },
+    {
+      "team": "h0/h1/h3/h4",
+      "stage": 28,
+      "level": 29,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 27
+    },
+    {
+      "team": "h0/h1/h3/h4",
+      "stage": 29,
+      "level": 30,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 31
+    },
+    {
+      "team": "h0/h1/h3/h4",
+      "stage": 30,
+      "level": 31,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 67
+    },
+    {
+      "team": "h2/h5/h13/h16",
+      "stage": 1,
+      "level": 2,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 11
+    },
+    {
+      "team": "h2/h5/h13/h16",
+      "stage": 2,
+      "level": 3,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 12
+    },
+    {
+      "team": "h2/h5/h13/h16",
+      "stage": 3,
+      "level": 4,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 13
+    },
+    {
+      "team": "h2/h5/h13/h16",
+      "stage": 4,
+      "level": 5,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 6
+    },
+    {
+      "team": "h2/h5/h13/h16",
+      "stage": 5,
+      "level": 6,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 45
+    },
+    {
+      "team": "h2/h5/h13/h16",
+      "stage": 6,
+      "level": 7,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 7
+    },
+    {
+      "team": "h2/h5/h13/h16",
+      "stage": 7,
+      "level": 8,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 7
+    },
+    {
+      "team": "h2/h5/h13/h16",
+      "stage": 8,
+      "level": 9,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 8
+    },
+    {
+      "team": "h2/h5/h13/h16",
+      "stage": 9,
+      "level": 10,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 7
+    },
+    {
+      "team": "h2/h5/h13/h16",
+      "stage": 10,
+      "level": 11,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 55
+    },
+    {
+      "team": "h2/h5/h13/h16",
+      "stage": 11,
+      "level": 12,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 10
+    },
+    {
+      "team": "h2/h5/h13/h16",
+      "stage": 12,
+      "level": 13,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 8
+    },
+    {
+      "team": "h2/h5/h13/h16",
+      "stage": 13,
+      "level": 14,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 9
+    },
+    {
+      "team": "h2/h5/h13/h16",
+      "stage": 14,
+      "level": 15,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 10
+    },
+    {
+      "team": "h2/h5/h13/h16",
+      "stage": 15,
+      "level": 16,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 52
+    },
+    {
+      "team": "h2/h5/h13/h16",
+      "stage": 16,
+      "level": 17,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 12
+    },
+    {
+      "team": "h2/h5/h13/h16",
+      "stage": 17,
+      "level": 18,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 9
+    },
+    {
+      "team": "h2/h5/h13/h16",
+      "stage": 18,
+      "level": 19,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 15
+    },
+    {
+      "team": "h2/h5/h13/h16",
+      "stage": 19,
+      "level": 20,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 20
+    },
+    {
+      "team": "h2/h5/h13/h16",
+      "stage": 20,
+      "level": 21,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 56
+    },
+    {
+      "team": "h2/h5/h13/h16",
+      "stage": 21,
+      "level": 22,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 28
+    },
+    {
+      "team": "h2/h5/h13/h16",
+      "stage": 22,
+      "level": 23,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 24
+    },
+    {
+      "team": "h2/h5/h13/h16",
+      "stage": 23,
+      "level": 24,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 19
+    },
+    {
+      "team": "h2/h5/h13/h16",
+      "stage": 24,
+      "level": 25,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 24
+    },
+    {
+      "team": "h2/h5/h13/h16",
+      "stage": 25,
+      "level": 26,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 55
+    },
+    {
+      "team": "h2/h5/h13/h16",
+      "stage": 26,
+      "level": 27,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 33
+    },
+    {
+      "team": "h2/h5/h13/h16",
+      "stage": 27,
+      "level": 28,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 29
+    },
+    {
+      "team": "h2/h5/h13/h16",
+      "stage": 28,
+      "level": 29,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 27
+    },
+    {
+      "team": "h2/h5/h13/h16",
+      "stage": 29,
+      "level": 30,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 31
+    },
+    {
+      "team": "h2/h5/h13/h16",
+      "stage": 30,
+      "level": 31,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 68
+    },
+    {
+      "team": "h7/h9/h14/h19",
+      "stage": 1,
+      "level": 2,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 5
+    },
+    {
+      "team": "h7/h9/h14/h19",
+      "stage": 2,
+      "level": 3,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 6
+    },
+    {
+      "team": "h7/h9/h14/h19",
+      "stage": 3,
+      "level": 4,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 6
+    },
+    {
+      "team": "h7/h9/h14/h19",
+      "stage": 4,
+      "level": 5,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 4
+    },
+    {
+      "team": "h7/h9/h14/h19",
+      "stage": 5,
+      "level": 6,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 26
+    },
+    {
+      "team": "h7/h9/h14/h19",
+      "stage": 6,
+      "level": 7,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 4
+    },
+    {
+      "team": "h7/h9/h14/h19",
+      "stage": 7,
+      "level": 8,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 4
+    },
+    {
+      "team": "h7/h9/h14/h19",
+      "stage": 8,
+      "level": 9,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 4
+    },
+    {
+      "team": "h7/h9/h14/h19",
+      "stage": 9,
+      "level": 10,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 4
+    },
+    {
+      "team": "h7/h9/h14/h19",
+      "stage": 10,
+      "level": 11,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 35
+    },
+    {
+      "team": "h7/h9/h14/h19",
+      "stage": 11,
+      "level": 12,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 4
+    },
+    {
+      "team": "h7/h9/h14/h19",
+      "stage": 12,
+      "level": 13,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 4
+    },
+    {
+      "team": "h7/h9/h14/h19",
+      "stage": 13,
+      "level": 14,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 4
+    },
+    {
+      "team": "h7/h9/h14/h19",
+      "stage": 14,
+      "level": 15,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 4
+    },
+    {
+      "team": "h7/h9/h14/h19",
+      "stage": 15,
+      "level": 16,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 33
+    },
+    {
+      "team": "h7/h9/h14/h19",
+      "stage": 16,
+      "level": 17,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 4
+    },
+    {
+      "team": "h7/h9/h14/h19",
+      "stage": 17,
+      "level": 18,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 4
+    },
+    {
+      "team": "h7/h9/h14/h19",
+      "stage": 18,
+      "level": 19,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 6
+    },
+    {
+      "team": "h7/h9/h14/h19",
+      "stage": 19,
+      "level": 20,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 6
+    },
+    {
+      "team": "h7/h9/h14/h19",
+      "stage": 20,
+      "level": 21,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 34
+    },
+    {
+      "team": "h7/h9/h14/h19",
+      "stage": 21,
+      "level": 22,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 7
+    },
+    {
+      "team": "h7/h9/h14/h19",
+      "stage": 22,
+      "level": 23,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 7
+    },
+    {
+      "team": "h7/h9/h14/h19",
+      "stage": 23,
+      "level": 24,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 7
+    },
+    {
+      "team": "h7/h9/h14/h19",
+      "stage": 24,
+      "level": 25,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 8
+    },
+    {
+      "team": "h7/h9/h14/h19",
+      "stage": 25,
+      "level": 26,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 40
+    },
+    {
+      "team": "h7/h9/h14/h19",
+      "stage": 26,
+      "level": 27,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 8
+    },
+    {
+      "team": "h7/h9/h14/h19",
+      "stage": 27,
+      "level": 28,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 8
+    },
+    {
+      "team": "h7/h9/h14/h19",
+      "stage": 28,
+      "level": 29,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 8
+    },
+    {
+      "team": "h7/h9/h14/h19",
+      "stage": 29,
+      "level": 30,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 9
+    },
+    {
+      "team": "h7/h9/h14/h19",
+      "stage": 30,
+      "level": 31,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 48
+    },
+    {
+      "team": "h6/h8/h10/h11",
+      "stage": 1,
+      "level": 2,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 13
+    },
+    {
+      "team": "h6/h8/h10/h11",
+      "stage": 2,
+      "level": 3,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 12
+    },
+    {
+      "team": "h6/h8/h10/h11",
+      "stage": 3,
+      "level": 4,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 13
+    },
+    {
+      "team": "h6/h8/h10/h11",
+      "stage": 4,
+      "level": 5,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 10
+    },
+    {
+      "team": "h6/h8/h10/h11",
+      "stage": 5,
+      "level": 6,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 48
+    },
+    {
+      "team": "h6/h8/h10/h11",
+      "stage": 6,
+      "level": 7,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 10
+    },
+    {
+      "team": "h6/h8/h10/h11",
+      "stage": 7,
+      "level": 8,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 11
+    },
+    {
+      "team": "h6/h8/h10/h11",
+      "stage": 8,
+      "level": 9,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 10
+    },
+    {
+      "team": "h6/h8/h10/h11",
+      "stage": 9,
+      "level": 10,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 13
+    },
+    {
+      "team": "h6/h8/h10/h11",
+      "stage": 10,
+      "level": 11,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 51
+    },
+    {
+      "team": "h6/h8/h10/h11",
+      "stage": 11,
+      "level": 12,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 15
+    },
+    {
+      "team": "h6/h8/h10/h11",
+      "stage": 12,
+      "level": 13,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 21
+    },
+    {
+      "team": "h6/h8/h10/h11",
+      "stage": 13,
+      "level": 14,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 14
+    },
+    {
+      "team": "h6/h8/h10/h11",
+      "stage": 14,
+      "level": 15,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 13
+    },
+    {
+      "team": "h6/h8/h10/h11",
+      "stage": 15,
+      "level": 16,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 58
+    },
+    {
+      "team": "h6/h8/h10/h11",
+      "stage": 16,
+      "level": 17,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 19
+    },
+    {
+      "team": "h6/h8/h10/h11",
+      "stage": 17,
+      "level": 18,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 24
+    },
+    {
+      "team": "h6/h8/h10/h11",
+      "stage": 18,
+      "level": 19,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 26
+    },
+    {
+      "team": "h6/h8/h10/h11",
+      "stage": 19,
+      "level": 20,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 26
+    },
+    {
+      "team": "h6/h8/h10/h11",
+      "stage": 20,
+      "level": 21,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 61
+    },
+    {
+      "team": "h6/h8/h10/h11",
+      "stage": 21,
+      "level": 22,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 28
+    },
+    {
+      "team": "h6/h8/h10/h11",
+      "stage": 22,
+      "level": 23,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 31
+    },
+    {
+      "team": "h6/h8/h10/h11",
+      "stage": 23,
+      "level": 24,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 28
+    },
+    {
+      "team": "h6/h8/h10/h11",
+      "stage": 24,
+      "level": 25,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 29
+    },
+    {
+      "team": "h6/h8/h10/h11",
+      "stage": 25,
+      "level": 26,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 59
+    },
+    {
+      "team": "h6/h8/h10/h11",
+      "stage": 26,
+      "level": 27,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 31
+    },
+    {
+      "team": "h6/h8/h10/h11",
+      "stage": 27,
+      "level": 28,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 34
+    },
+    {
+      "team": "h6/h8/h10/h11",
+      "stage": 28,
+      "level": 29,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 30
+    },
+    {
+      "team": "h6/h8/h10/h11",
+      "stage": 29,
+      "level": 30,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 31
+    },
+    {
+      "team": "h6/h8/h10/h11",
+      "stage": 30,
+      "level": 31,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 68
+    },
+    {
+      "team": "h12/h15/h16/h18",
+      "stage": 1,
+      "level": 2,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 11
+    },
+    {
+      "team": "h12/h15/h16/h18",
+      "stage": 2,
+      "level": 3,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 6
+    },
+    {
+      "team": "h12/h15/h16/h18",
+      "stage": 3,
+      "level": 4,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 7
+    },
+    {
+      "team": "h12/h15/h16/h18",
+      "stage": 4,
+      "level": 5,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 3
+    },
+    {
+      "team": "h12/h15/h16/h18",
+      "stage": 5,
+      "level": 6,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 29
+    },
+    {
+      "team": "h12/h15/h16/h18",
+      "stage": 6,
+      "level": 7,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 3
+    },
+    {
+      "team": "h12/h15/h16/h18",
+      "stage": 7,
+      "level": 8,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 3
+    },
+    {
+      "team": "h12/h15/h16/h18",
+      "stage": 8,
+      "level": 9,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 4
+    },
+    {
+      "team": "h12/h15/h16/h18",
+      "stage": 9,
+      "level": 10,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 5
+    },
+    {
+      "team": "h12/h15/h16/h18",
+      "stage": 10,
+      "level": 11,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 45
+    },
+    {
+      "team": "h12/h15/h16/h18",
+      "stage": 11,
+      "level": 12,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 9
+    },
+    {
+      "team": "h12/h15/h16/h18",
+      "stage": 12,
+      "level": 13,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 7
+    },
+    {
+      "team": "h12/h15/h16/h18",
+      "stage": 13,
+      "level": 14,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 7
+    },
+    {
+      "team": "h12/h15/h16/h18",
+      "stage": 14,
+      "level": 15,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 6
+    },
+    {
+      "team": "h12/h15/h16/h18",
+      "stage": 15,
+      "level": 16,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 48
+    },
+    {
+      "team": "h12/h15/h16/h18",
+      "stage": 16,
+      "level": 17,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 15
+    },
+    {
+      "team": "h12/h15/h16/h18",
+      "stage": 17,
+      "level": 18,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 12
+    },
+    {
+      "team": "h12/h15/h16/h18",
+      "stage": 18,
+      "level": 19,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 13
+    },
+    {
+      "team": "h12/h15/h16/h18",
+      "stage": 19,
+      "level": 20,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 17
+    },
+    {
+      "team": "h12/h15/h16/h18",
+      "stage": 20,
+      "level": 21,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 48
+    },
+    {
+      "team": "h12/h15/h16/h18",
+      "stage": 21,
+      "level": 22,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 19
+    },
+    {
+      "team": "h12/h15/h16/h18",
+      "stage": 22,
+      "level": 23,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 13
+    },
+    {
+      "team": "h12/h15/h16/h18",
+      "stage": 23,
+      "level": 24,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 13
+    },
+    {
+      "team": "h12/h15/h16/h18",
+      "stage": 24,
+      "level": 25,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 17
+    },
+    {
+      "team": "h12/h15/h16/h18",
+      "stage": 25,
+      "level": 26,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 47
+    },
+    {
+      "team": "h12/h15/h16/h18",
+      "stage": 26,
+      "level": 27,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 23
+    },
+    {
+      "team": "h12/h15/h16/h18",
+      "stage": 27,
+      "level": 28,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 17
+    },
+    {
+      "team": "h12/h15/h16/h18",
+      "stage": 28,
+      "level": 29,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 16
+    },
+    {
+      "team": "h12/h15/h16/h18",
+      "stage": 29,
+      "level": 30,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 19
+    },
+    {
+      "team": "h12/h15/h16/h18",
+      "stage": 30,
+      "level": 31,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 60
+    },
+    {
+      "team": "h0/h2/h13/h17",
+      "stage": 1,
+      "level": 2,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 13
+    },
+    {
+      "team": "h0/h2/h13/h17",
+      "stage": 2,
+      "level": 3,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 9
+    },
+    {
+      "team": "h0/h2/h13/h17",
+      "stage": 3,
+      "level": 4,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 9
+    },
+    {
+      "team": "h0/h2/h13/h17",
+      "stage": 4,
+      "level": 5,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 5
+    },
+    {
+      "team": "h0/h2/h13/h17",
+      "stage": 5,
+      "level": 6,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 51
+    },
+    {
+      "team": "h0/h2/h13/h17",
+      "stage": 6,
+      "level": 7,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 8
+    },
+    {
+      "team": "h0/h2/h13/h17",
+      "stage": 7,
+      "level": 8,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 8
+    },
+    {
+      "team": "h0/h2/h13/h17",
+      "stage": 8,
+      "level": 9,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 9
+    },
+    {
+      "team": "h0/h2/h13/h17",
+      "stage": 9,
+      "level": 10,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 21
+    },
+    {
+      "team": "h0/h2/h13/h17",
+      "stage": 10,
+      "level": 11,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 70
+    },
+    {
+      "team": "h0/h2/h13/h17",
+      "stage": 11,
+      "level": 12,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 20
+    },
+    {
+      "team": "h0/h2/h13/h17",
+      "stage": 12,
+      "level": 13,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 22
+    },
+    {
+      "team": "h0/h2/h13/h17",
+      "stage": 13,
+      "level": 14,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 18
+    },
+    {
+      "team": "h0/h2/h13/h17",
+      "stage": 14,
+      "level": 15,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 21
+    },
+    {
+      "team": "h0/h2/h13/h17",
+      "stage": 15,
+      "level": 16,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 66
+    },
+    {
+      "team": "h0/h2/h13/h17",
+      "stage": 16,
+      "level": 17,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 24
+    },
+    {
+      "team": "h0/h2/h13/h17",
+      "stage": 17,
+      "level": 18,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 23
+    },
+    {
+      "team": "h0/h2/h13/h17",
+      "stage": 18,
+      "level": 19,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 32
+    },
+    {
+      "team": "h0/h2/h13/h17",
+      "stage": 19,
+      "level": 20,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 32
+    },
+    {
+      "team": "h0/h2/h13/h17",
+      "stage": 20,
+      "level": 21,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 72
+    },
+    {
+      "team": "h0/h2/h13/h17",
+      "stage": 21,
+      "level": 22,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 54
+    },
+    {
+      "team": "h0/h2/h13/h17",
+      "stage": 22,
+      "level": 23,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 37
+    },
+    {
+      "team": "h0/h2/h13/h17",
+      "stage": 23,
+      "level": 24,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 42
+    },
+    {
+      "team": "h0/h2/h13/h17",
+      "stage": 24,
+      "level": 25,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 40
+    },
+    {
+      "team": "h0/h2/h13/h17",
+      "stage": 25,
+      "level": 26,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 82
+    },
+    {
+      "team": "h0/h2/h13/h17",
+      "stage": 26,
+      "level": 27,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 49
+    },
+    {
+      "team": "h0/h2/h13/h17",
+      "stage": 27,
+      "level": 28,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 35
+    },
+    {
+      "team": "h0/h2/h13/h17",
+      "stage": 28,
+      "level": 29,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 41
+    },
+    {
+      "team": "h0/h2/h13/h17",
+      "stage": 29,
+      "level": 30,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 37
+    },
+    {
+      "team": "h0/h2/h13/h17",
+      "stage": 30,
+      "level": 31,
+      "wins": 12,
+      "total": 12,
+      "meanActions": 91
+    }
+  ],
+  "heroes": {
+    "h0": {
+      "name": "Aldric Ironshield",
+      "runs": 720,
+      "wins": 720,
+      "damage": 108318.99999999999,
+      "healing": 0,
+      "survived": 720
+    },
+    "h1": {
+      "name": "Nyra Shadowfang",
+      "runs": 360,
+      "wins": 360,
+      "damage": 215459.00000000006,
+      "healing": 0,
+      "survived": 360
+    },
+    "h2": {
+      "name": "Brakka Stonefist",
+      "runs": 720,
+      "wins": 720,
+      "damage": 377523.20000000024,
+      "healing": 0,
+      "survived": 720
+    },
+    "h3": {
+      "name": "Ember Vex",
+      "runs": 360,
+      "wins": 360,
+      "damage": 204047,
+      "healing": 0,
+      "survived": 360
+    },
+    "h4": {
+      "name": "Sylwen Thorn",
+      "runs": 360,
+      "wins": 360,
+      "damage": 54806.600000000006,
+      "healing": 20317.099999999995,
+      "survived": 360
+    },
+    "h5": {
+      "name": "Kael Stormbow",
+      "runs": 360,
+      "wins": 360,
+      "damage": 197156.6,
+      "healing": 0,
+      "survived": 359
+    },
+    "h6": {
+      "name": "Morgrim Bonecaller",
+      "runs": 360,
+      "wins": 360,
+      "damage": 87273.59999999998,
+      "healing": 0,
+      "survived": 360
+    },
+    "h7": {
+      "name": "Thalia Frostveil",
+      "runs": 360,
+      "wins": 360,
+      "damage": 104611.6,
+      "healing": 0,
+      "survived": 360
+    },
+    "h8": {
+      "name": "Rurik Flamebeard",
+      "runs": 360,
+      "wins": 360,
+      "damage": 193656.6,
+      "healing": 0,
+      "survived": 357
+    },
+    "h9": {
+      "name": "Zephyr Quickstep",
+      "runs": 360,
+      "wins": 360,
+      "damage": 58783.6,
+      "healing": 0,
+      "survived": 360
+    },
+    "h10": {
+      "name": "Orla Moonwhisper",
+      "runs": 360,
+      "wins": 360,
+      "damage": 65257.79999999997,
+      "healing": 118714.45,
+      "survived": 348
+    },
+    "h11": {
+      "name": "Drogath the Devourer",
+      "runs": 360,
+      "wins": 360,
+      "damage": 182103.40000000008,
+      "healing": 0,
+      "survived": 360
+    },
+    "h12": {
+      "name": "Fenwick Gearsmith",
+      "runs": 360,
+      "wins": 360,
+      "damage": 72496.99999999999,
+      "healing": 0,
+      "survived": 360
+    },
+    "h13": {
+      "name": "Seraphine Dawn",
+      "runs": 720,
+      "wins": 720,
+      "damage": 198471.40000000005,
+      "healing": 42178.02000000001,
+      "survived": 720
+    },
+    "h14": {
+      "name": "Voss the Plagueborn",
+      "runs": 360,
+      "wins": 360,
+      "damage": 163857.79999999996,
+      "healing": 0,
+      "survived": 360
+    },
+    "h15": {
+      "name": "Ignis Ashborn",
+      "runs": 360,
+      "wins": 360,
+      "damage": 135948.80000000002,
+      "healing": 0,
+      "survived": 360
+    },
+    "h16": {
+      "name": "Mira Tidecaller",
+      "runs": 720,
+      "wins": 720,
+      "damage": 285775.2,
+      "healing": 119659.71999999993,
+      "survived": 720
+    },
+    "h17": {
+      "name": "Garruk Wildclaw",
+      "runs": 360,
+      "wins": 360,
+      "damage": 187054.00000000017,
+      "healing": 0,
+      "survived": 360
+    },
+    "h18": {
+      "name": "Xareth Voidwalker",
+      "runs": 360,
+      "wins": 360,
+      "damage": 130364.80000000002,
+      "healing": 0,
+      "survived": 360
+    },
+    "h19": {
+      "name": "Astrid Thunderheart",
+      "runs": 360,
+      "wins": 360,
+      "damage": 206512.40000000005,
+      "healing": 0,
+      "survived": 360
+    }
+  },
+  "freshCampaign": {
+    "cleared": 30,
+    "failures": 0,
+    "replays": 0,
+    "gold": 2930,
+    "party": [
+      {
+        "id": "h0",
+        "level": 31
+      },
+      {
+        "id": "h1",
+        "level": 30
+      },
+      {
+        "id": "h3",
+        "level": 27
+      },
+      {
+        "id": "h4",
+        "level": 27
+      }
+    ]
+  },
+  "raids": [
+    {
+      "raid": 1,
+      "difficulty": "Normal",
+      "win": true,
+      "rounds": 10
+    },
+    {
+      "raid": 1,
+      "difficulty": "Hard",
+      "win": true,
+      "rounds": 16
+    },
+    {
+      "raid": 1,
+      "difficulty": "Nightmare",
+      "win": true,
+      "rounds": 24
+    },
+    {
+      "raid": 2,
+      "difficulty": "Normal",
+      "win": true,
+      "rounds": 14
+    },
+    {
+      "raid": 2,
+      "difficulty": "Hard",
+      "win": true,
+      "rounds": 14
+    },
+    {
+      "raid": 2,
+      "difficulty": "Nightmare",
+      "win": true,
+      "rounds": 27
+    },
+    {
+      "raid": 3,
+      "difficulty": "Normal",
+      "win": true,
+      "rounds": 12
+    },
+    {
+      "raid": 3,
+      "difficulty": "Hard",
+      "win": true,
+      "rounds": 17
+    },
+    {
+      "raid": 3,
+      "difficulty": "Nightmare",
+      "win": true,
+      "rounds": 21
+    },
+    {
+      "raid": 4,
+      "difficulty": "Normal",
+      "win": true,
+      "rounds": 18
+    },
+    {
+      "raid": 4,
+      "difficulty": "Hard",
+      "win": true,
+      "rounds": 23
+    },
+    {
+      "raid": 4,
+      "difficulty": "Nightmare",
+      "win": true,
+      "rounds": 25
+    },
+    {
+      "raid": 5,
+      "difficulty": "Normal",
+      "win": true,
+      "rounds": 15
+    },
+    {
+      "raid": 5,
+      "difficulty": "Hard",
+      "win": true,
+      "rounds": 17
+    },
+    {
+      "raid": 5,
+      "difficulty": "Nightmare",
+      "win": true,
+      "rounds": 23
+    },
+    {
+      "raid": 6,
+      "difficulty": "Normal",
+      "win": true,
+      "rounds": 24
+    },
+    {
+      "raid": 6,
+      "difficulty": "Hard",
+      "win": true,
+      "rounds": 31
+    },
+    {
+      "raid": 6,
+      "difficulty": "Nightmare",
+      "win": true,
+      "rounds": 38
+    },
+    {
+      "raid": 7,
+      "difficulty": "Normal",
+      "win": true,
+      "rounds": 24
+    },
+    {
+      "raid": 7,
+      "difficulty": "Hard",
+      "win": true,
+      "rounds": 32
+    },
+    {
+      "raid": 7,
+      "difficulty": "Nightmare",
+      "win": true,
+      "rounds": 35
+    },
+    {
+      "raid": 8,
+      "difficulty": "Normal",
+      "win": true,
+      "rounds": 27
+    },
+    {
+      "raid": 8,
+      "difficulty": "Hard",
+      "win": true,
+      "rounds": 32
+    },
+    {
+      "raid": 8,
+      "difficulty": "Nightmare",
+      "win": true,
+      "rounds": 32
+    },
+    {
+      "raid": 9,
+      "difficulty": "Normal",
+      "win": true,
+      "rounds": 20
+    },
+    {
+      "raid": 9,
+      "difficulty": "Hard",
+      "win": true,
+      "rounds": 21
+    },
+    {
+      "raid": 9,
+      "difficulty": "Nightmare",
+      "win": true,
+      "rounds": 25
+    },
+    {
+      "raid": 10,
+      "difficulty": "Normal",
+      "win": true,
+      "rounds": 34
+    },
+    {
+      "raid": 10,
+      "difficulty": "Hard",
+      "win": true,
+      "rounds": 38
+    },
+    {
+      "raid": 10,
+      "difficulty": "Nightmare",
+      "win": true,
+      "rounds": 43
+    },
+    {
+      "raid": 11,
+      "difficulty": "Normal",
+      "win": true,
+      "rounds": 24
+    },
+    {
+      "raid": 11,
+      "difficulty": "Hard",
+      "win": true,
+      "rounds": 22
+    },
+    {
+      "raid": 11,
+      "difficulty": "Nightmare",
+      "win": true,
+      "rounds": 28
+    },
+    {
+      "raid": 12,
+      "difficulty": "Normal",
+      "win": true,
+      "rounds": 41
+    },
+    {
+      "raid": 12,
+      "difficulty": "Hard",
+      "win": true,
+      "rounds": 44
+    },
+    {
+      "raid": 12,
+      "difficulty": "Nightmare",
+      "win": true,
+      "rounds": 45
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "generated": "2026-10-15T12:00:28.055Z",
+  "note": "Cloud software-rendering measurements. Not a gaming-laptop 60 FPS certification; JS heap is diagnostic, GPU disposal has regression tests.",
+  "measurements": [
+    {
+      "quality": "default",
+      "viewport": "1280x800",
+      "renderer": "ANGLE (Google, Vulkan 1.3.0 (SwiftShader Device (Subzero) (0x0000C0DE)), SwiftShader driver)",
+      "frames": {
+        "meanFPS": 7,
+        "medianMs": 135,
+        "p95Ms": 182
+      },
+      "heapBefore": 11531629,
+      "heapAfterFiveSceneCycles": 12713679,
+      "errors": []
+    },
+    {
+      "quality": "low",
+      "viewport": "1280x800",
+      "renderer": "ANGLE (Google, Vulkan 1.3.0 (SwiftShader Device (Subzero) (0x0000C0DE)), SwiftShader driver)",
+      "frames": {
+        "meanFPS": 37,
+        "medianMs": 25,
+        "p95Ms": 39
+      },
+      "heapBefore": 11181380,
+      "heapAfterFiveSceneCycles": 10934958,
+      "errors": []
+    }
+  ]
+}
